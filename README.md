@@ -10,7 +10,7 @@ I am Ulugbek Temirov, currently studying at [Ajou university](https://www.ajou.u
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)UlugbekTemirov
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-orange?style=flat&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)

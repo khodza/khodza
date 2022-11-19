@@ -24,7 +24,8 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](h
 <!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white) -->
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![MySQL](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
+![MySQL](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=expressjs&logoColor=orange)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)

@@ -17,15 +17,16 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](h
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-orange?style=flat&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express&logoColor=orange)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) -->
 <!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white) -->
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![MySQL](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
-![MySQL](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express&logoColor=orange)
+
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)

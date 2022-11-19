@@ -4,8 +4,8 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](h
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khodza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/izzattillakhodza-makhmudkhodzaev-229003252/)
 [![Gmail Badge](https://img.shields.io/badge/-khodzapro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khodzapro@gmail.com)](mailto:khodzapro@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-khodza_i-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/khodza_i](https://www.instagram.com/khodza_i)
-[![Instagram Badge](https://img.shields.io/badge/-Khodza-orange?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/Khodza_I)](https://www.t.me/Khodza_I)
+[![Instagram Badge](https://img.shields.io/badge/-khodza_i-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/khodza_i)](https://www.instagram.com/khodza_i)
+[![Telegram Badge](https://img.shields.io/badge/-khodza_i-orange?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/khodza_i)](https://www.t.me/khodza_i)
 
 
 ## ⚡ Technologies

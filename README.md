@@ -2,10 +2,10 @@
 
 I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am Junior Backend Node JS developer. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Khodza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/ulugbek-temirov-844a84208/)
-[![Gmail Badge](https://img.shields.io/badge/-khodzapro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:temirovulugbek2003@gmail.com)](mailto:temirovulugbek2003@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-khodza_i-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ulugbek.exe)](https://www.instagram.com/ulugbek.exe)
-[![Instagram Badge](https://img.shields.io/badge/-Khodza-orange?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/TemirovUlugbek)](https://www.t.me/TemirovUlugbek)
+[![Linkedin Badge](https://img.shields.io/badge/-Khodza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/izzattillakhodza-makhmudkhodzaev-229003252/)
+[![Gmail Badge](https://img.shields.io/badge/-khodzapro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khodzapro@gmail.com)](mailto:khodzapro@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-khodza_i-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/khodza_i](https://www.instagram.com/khodza_i)
+[![Instagram Badge](https://img.shields.io/badge/-Khodza-orange?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/Khodza_I)](https://www.t.me/Khodza_I)
 
 
 ## ⚡ Technologies
@@ -23,7 +23,7 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](h
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white) -->
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws) -->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)

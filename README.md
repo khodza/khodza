@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am Junior Backend Node JS developer. Find out more about me & feel free to connect with me here:
+I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am Junior  Node JS developer. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khodza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/izzattillakhodza-makhmudkhodzaev-229003252/)
 [![Gmail Badge](https://img.shields.io/badge/-khodzapro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khodzapro@gmail.com)](mailto:khodzapro@gmail.com)

@@ -33,8 +33,8 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](h
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
-<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws) -->
-<!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&logo=bitbucket) -->
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
+
 <!-- ![GO](https://img.shields.io/badge/-Go-darkblue?style=flat&logo=bitbucket) -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=khodza&count_private=true&show_icons=true&include_all_commits=true&theme=dark)

@@ -23,7 +23,7 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](h
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![MongoDB](https://img.shields.io/badge/-Mongoose-black?style=flat&logo=mongoose)
 ![MySQL](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express&logoColor=orange)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) -->
 <!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white) -->

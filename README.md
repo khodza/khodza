@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hi 👋 My name is Izzattillakhodza
 =================================
 
@@ -8,55 +6,42 @@ Backend developer
 
 I am Makhmudkhodzaev Izzattillakhodza, currently studying at Ajou university in Tashkent. I am Junior Node JS developer. Find out more
 
-* 🌍  I'm based in Uzbekistan,Tashkent
-* ✉️  You can contact me at [khodzapro@gmail.com](mailto:khodzapro@gmail.com)
-* 🚀  I'm currently working on [Ajou Library System](http://github.com/khodza)
-* 🧠  I'm learning TypeScript
-* ⚡  I'm looking for a job
+* 🌍  I'm based in Uzbekistan,Tashkent
+* ✉️  You can contact me at [khodzapro@gmail.com](mailto:khodzapro@gmail.com)
+* 🚀  I'm currently working on [Ajou Library System](http://github.com/khodza)
+* 🧠  I'm learning TypeScript
+* ⚡  I'm looking for a job
 
 <a href="https://www.github.com/khodza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/khodza?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Khodza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/izzattillakhodza-makhmudkhodzaev-229003252/)
-[![Gmail Badge](https://img.shields.io/badge/-khodzapro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khodzapro@gmail.com)](mailto:khodzapro@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-khodza_i-critical?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/khodza_i)](https://www.instagram.com/khodza_i)
-[![Telegram Badge](https://img.shields.io/badge/-khodza_i-orange?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/khodza_i)](https://www.t.me/khodza_i)
+### Skills
 
 
-## ⚡ Technologies
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
 
 
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) -->
+### Socials
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MongoDB](https://img.shields.io/badge/-Mongoose-black?style=flat&logo=mongoose)
-![MySQL](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=express&logoColor=orange)
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) -->
-<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) -->
-<!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql) -->
-<!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white) -->
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![MySQL](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
+<p align="left"> <a href="https://www.github.com/khodza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/khodza_i" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/izzattillakhodza-makhmudkhodzaev-229003252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Badges
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
+<b>My GitHub Stats</b>
 
-<!-- ![GO](https://img.shields.io/badge/-Go-darkblue?style=flat&logo=bitbucket) -->
+<a href="http://www.github.com/khodza"><img src="https://github-readme-stats.vercel.app/api?username=khodza&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="khodza's GitHub stats" /></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=khodza&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khodza&hide=TeX&layout=compact&theme=dark)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khodza.khodza)
+<a href="https://github.com/khodza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodza&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 

@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](https://www.ajou.uz/) in Tashkent. I am Junior  Node JS developer. Find out more about me & feel free to connect with me here:
+Hi 👋 My name is Izzattillakhodza
+=================================
+
+Backend developer
+-----------------
+
+I am Makhmudkhodzaev Izzattillakhodza, currently studying at Ajou university in Tashkent. I am Junior Node JS developer. Find out more
+
+* 🌍  I'm based in Uzbekistan,Tashkent
+* ✉️  You can contact me at [khodzapro@gmail.com](mailto:khodzapro@gmail.com)
+* 🚀  I'm currently working on [Ajou Library System](http://github.com/khodza)
+* 🧠  I'm learning TypeScript
+* ⚡  I'm looking for a job
+
+<a href="https://www.github.com/khodza" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/khodza?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khodza-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulugbek-temirov-844a84208//)](https://www.linkedin.com/in/izzattillakhodza-makhmudkhodzaev-229003252/)
 [![Gmail Badge](https://img.shields.io/badge/-khodzapro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khodzapro@gmail.com)](mailto:khodzapro@gmail.com)
@@ -42,3 +57,15 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at [Ajou university](h
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khodza&hide=TeX&layout=compact&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khodza.khodza)
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/khodza/Library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=Library&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/khodza/E-Commers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=E-Commers&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/khodza/Natours-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=Natours-API&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/khodza/Quranbot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=Quranbot&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/khodza"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

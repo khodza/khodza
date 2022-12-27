@@ -46,10 +46,13 @@ src="https://img.shields.io/github/followers/khodza?logo=github&style=for-the-ba
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/khodza/Library" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=Library&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/khodza/E-Commers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=E-Commers&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/khodza/Natours-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=Natours-API&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/khodza/Quranbot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khodza&repo=Quranbot&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+
+
+
+
+
 
 ### Support Me
 

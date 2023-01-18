@@ -9,7 +9,7 @@ I am Makhmudkhodzaev Izzattillakhodza, currently studying at Ajou university in 
 * 🌍  I'm based in Uzbekistan,Tashkent
 * ✉️  You can contact me at [khodzapro@gmail.com](mailto:khodzapro@gmail.com)
 * 🚀  I'm currently working on [Ajou Library System](http://github.com/khodza)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning NestJs,TypeORM,PostgressSQL
 * ⚡  I'm looking for a job
 
 <a href="https://www.github.com/khodza" target="_blank" rel="noreferrer"><img

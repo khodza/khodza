@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Izzattillakhodza</h1>
 <h3 align="center">I am Makhmudkhodzaev Izzattillakhodza, currently studying at Ajou university in Tashkent. I am Junior Node JS developer. </h3>
 
-- 🔭 I’m currently working on **car selling project**
+- 🔭 I’m currently working on **khodzagram project**
 
-- 🌱 I’m currently learning **NestJS ,TypeORM ,PostgesSQL**
+- 🌱 I’m currently learning **Microservices**
 
 - 👨‍💻 All of my projects are available at [github.com/khodza](github.com/khodza)
 

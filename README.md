@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/khodza](github.com/khodza)
 
-- 💬 Ask me about **NodeJS,ExpressJS**
+- 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **khodzapro@gmail.com**
 
